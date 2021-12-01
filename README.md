@@ -1,2 +1,2 @@
 # Projects-
-Data analysis, data science, deep learning projects 
+Data analysis, data science projects. 
