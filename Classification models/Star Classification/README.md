@@ -13,9 +13,9 @@ Methodology-
 - ML model - fit Logistic regression(Classification) 
 
 Data includes - 
-#TargetClass - Whether the Star is Dwarf (0) or Giant (1)
-#B-V - B-V color index.
-#Amag - Absolute Magnitude of the Star.
-#Plx - Distance Between the Star and the Earth
-#e_Plx - Standard Error of `Plx`
-#SpType - Spectral type
+#TargetClass - Whether the Star is Dwarf (0) or Giant (1); 
+#B-V - B-V color index; 
+#Amag - Absolute Magnitude of the Star; 
+#Plx - Distance Between the Star and the Earth;
+#e_Plx - Standard Error of Plx; 
+#SpType - Spectral type. 
