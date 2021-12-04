@@ -6,16 +6,16 @@ Szeged is the third largest city of Hungary, the largest city and regional centr
 
 The CSV file includes a hourly summary for Szeged, Hungary area, between 2006 and 2016.
 Data available in the hourly response:
-time
-summary
-precipType
-temperature
-apparentTemperature
-humidity
-windSpeed
-windBearing
-visibility
-loudCover
+time, 
+summary,
+precipType,
+temperature,
+apparentTemperature,
+humidity,
+windSpeed,
+windBearing,
+visibility,
+loudCover and 
 pressure
 
 
