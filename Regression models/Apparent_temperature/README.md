@@ -18,5 +18,9 @@ visibility,
 loudCover and 
 pressure. 
 
+Methodology
+- ML model - A simple linear model was fit (ax+by+cz+d=>Target)
+- Insights were concluded.
+
 
 
