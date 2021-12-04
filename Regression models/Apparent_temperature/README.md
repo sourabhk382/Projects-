@@ -1,4 +1,4 @@
-Weather in Szeged(Hungary) 2006-2016: (Szeged is the third largest city of Hungary. )
+Questionnaire -  Weather in Szeged(Hungary) 2006-2016: 
 Is there a relationship between humidity and temperature? What about between humidity and apparent temperature? 
 Can you predict the apparent temperature given the humidity?
 
@@ -11,6 +11,10 @@ Intro to apparent temperature-
 - Climate change leading to increase in heatwave count in summer months.  
 - Extreme weather events - increase in heatwaves, coldwave, cyclones.   
 - Application - To reduce impact of extreme weather events on humans and animals.  
+
+About Szeged - 
+- Szeged is one of the centres of food industry in Hungary, especially known for its paprika.
+- Climate - Koppen continental
 
 The CSV file includes a hourly summary for Szeged, Hungary area, between 2006 and 2016.
 Data available in the hourly response:
