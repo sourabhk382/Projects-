@@ -19,8 +19,12 @@ loudCover and
 pressure. 
 
 Methodology
-- ML model - A simple linear model was fit (ax+by+cz+d=>Target)
-- Insights were concluded.
+- ML model - A linear model was fit (ax+by+cz+d=>Target)
+- Insights were concluded for correlation between target price and features
 
+Why to use Linear model?
+- Linear model was used to know the coefficients of each feature. 
+- Coefficients tells us how strongly a feature and target are correlated.
+- Insights were concluded. 
 
 
